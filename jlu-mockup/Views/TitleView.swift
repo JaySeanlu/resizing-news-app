@@ -22,7 +22,6 @@ class TitleView: UIView {
 //        return pageControl
 //    }()
     
-    
     override init(frame: CGRect) {
         super.init(frame: frame)
         addSubview(titleImage)
